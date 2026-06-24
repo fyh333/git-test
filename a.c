@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int test(int a, int b) {
-  return a + b + 1;
+int test(int x, int b) {
+  return x + b + 1;
 }
 
 int main(int argc, char *argv[]) {
